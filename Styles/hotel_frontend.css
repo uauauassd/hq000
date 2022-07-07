@@ -201,7 +201,7 @@ body {
   max-width: 1920px;
   min-width: 1200px;
   overflow: auto;
-  background: url("/Images/Hotel/front/bg_pc.jpg") no-repeat center top; }
+  background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/bg_pc.jpg") no-repeat center top; }
 .wrapper .header {
   width: 100%; }
 .wrapper .header .left-nav, .wrapper .header .right-nav {
@@ -222,7 +222,7 @@ body {
 .wrapper .header .logo {
   width: 274px;
   height: 181px;
-  background: url("/Images/Hotel/front/logo.png") no-repeat; }
+  background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/logo.png") no-repeat; }
 .wrapper .header-mobile {
   display: none; }
 .wrapper .container {
@@ -248,7 +248,7 @@ body {
 .wrapper .container.safe-code .search-ico {
   width: 34px;
   height: 34px;
-  background: url(/Images/Hotel/front/search.png);
+  background: url(https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/search.png);
   vertical-align: middle; }
 .wrapper .container.safe-code .keywords {
   width: 250px;
@@ -327,7 +327,7 @@ body {
   right: 15px;
   width: 34px;
   height: 34px;
-  background: url("/Images/Hotel/optimumline.png"); }
+  background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/optimumline.png"); }
 .wrapper .container.speed .bd-select, .wrapper .container.speed .bd-device {
   margin-top: 186px;
   width: 350px; }
@@ -359,7 +359,7 @@ body {
   text-align: right;
   width: 240px;
   height: 62px;
-  background: url("/Images/Hotel/back/img_sixtroptimizationn_browser.png") no-repeat; }
+  background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/back/img_sixtroptimizationn_browser.png") no-repeat; }
 
 .invisbleBtn, .invisbleBtn a {
   display: inline-block;
@@ -381,7 +381,7 @@ body {
   body {
     background-color: #ffffff; }
   .wrapper {
-    background: url("/Images/Hotel/front/bg_mobile.jpg") no-repeat center top;
+    background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/bg_mobile.jpg") no-repeat center top;
     background-size: cover;
     min-height: unset;
     max-width: unset;
@@ -398,11 +398,11 @@ body {
     margin-left: 10px;
     width: 274px;
     height: 181px;
-    background: url("/Images/Hotel/front/logo.png") no-repeat; }
+    background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/logo.png") no-repeat; }
   .wrapper .header-mobile .btn-menu {
     width: 34px;
     height: 34px;
-    background: url("/Images/Hotel/front/menu.png") no-repeat;
+    background: url("https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/menu.png") no-repeat;
     position: absolute;
     top: 50px;
     right: 22px; }
@@ -426,7 +426,7 @@ body {
   .wrapper .container.safe-code .search-ico {
     width: 34px;
     height: 34px;
-    background: url(/Images/Hotel/front/search.png);
+    background: url(https://cdn.jsdelivr.net/gh/uauauassd/hq000@master/Images/Hotel/front/search.png);
     vertical-align: middle; }
   .wrapper .container.safe-code .keywords {
     width: 250px;
